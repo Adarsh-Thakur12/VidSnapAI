@@ -27,11 +27,11 @@ The final reel is saved in static/reels/.
 <hr>
 <h4>🚀 Features</h4>
 
-✅ Upload multiple images with text description
-✅ AI-generated voice-over using ElevenLabs TTS
-✅ Automatic fallback audio if TTS fails
-✅ Reel creation using FFmpeg
-✅ Simple web-based upload interface built with Flask
-✅ Organized directory structure for easy management
+✅ Upload multiple images with text description<br>
+✅ AI-generated voice-over using ElevenLabs TTS<br>
+✅ Automatic fallback audio if TTS fails<br>
+✅ Reel creation using FFmpeg<br>
+✅ Simple web-based upload interface built with Flask<br>
+✅ Organized directory structure for easy management<br>
 <hr>
 <h3 align="left">🌐 Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/adarsh-singh-sengar" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-singh-sengar" height="30" width="40" /> </a> </p>
